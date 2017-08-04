@@ -1,7 +1,4 @@
-
-
 # VPC environment values
-
 
 vpc = {
     tag                   = "TFTEST"
