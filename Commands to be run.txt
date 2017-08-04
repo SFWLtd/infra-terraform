@@ -1,0 +1,8 @@
+
+
+Command to run against TerraForm to confirm what's going to be done using the files in the folder
+
+$ terraform plan -var-file provider-credentials.tfvars -var-file vpc_environment.tfvars -out vpc.tfplan
+
+
+
